@@ -24,11 +24,11 @@ This is a Loan Prediction System project which aims to predict whether a loan ap
 
 1. Clone the repository using the following command:
    
-   git clone https://github.com/anjali9156/Loan_Prediction_System.git
+   git clone https://github.com/bharath30-04/Loan-Prediction-System.git
    
 2. Navigate to the project directory using the following command:
    
-   cd Loan_Prediction_System
+   cd Loan-Prediction-System
    
 3. Install the required dependencies. The dependencies are listed in the requirements.txt file. You can install them using the following command:
    
